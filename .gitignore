@@ -1,4 +1,7 @@
 # Compilation files
-.o
+*.o
 __pycache__/
 *.pyc
+
+# Executables
+test
