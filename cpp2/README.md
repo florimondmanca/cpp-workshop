@@ -1,4 +1,4 @@
-# cpp2
+# C++ Workshop, part 2
 
 ## Makefile
 

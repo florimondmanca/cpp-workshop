@@ -1,18 +1,18 @@
-# Atelier C++, partie 1
+# C++ Workshop, part 1
 
-Compiler :
+Compile:
 
 ```bash
 g++ test.cc -o test -Wall -std=c++11
 ```
 
-Lancer le programme :
+Launch program:
 
 ```bash
 ./test
 ```
 
-Exemple d'output :
+Example output:
 
 ```
 Hello, world!
